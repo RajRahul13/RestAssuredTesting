@@ -5,7 +5,8 @@
     <classes>
       <class name="LibraryAPI">
         <methods>
-          <include name="getBookUsingAuthor"/>
+          <include name="addBook"/>
+          <include name="DeleteBookUsingID"/>
         </methods>
       </class> <!-- LibraryAPI -->
     </classes>
